@@ -1,3 +1,8 @@
+html, body {
+  max-width: 80em; 
+  background-color: #ffeead;
+  margin: 10px auto;
+}
 .container > div {
     display: flex;
     justify-content: center;
@@ -5,12 +10,6 @@
     font-size: 2em;
     color: #ffeead;
 }
-
-html, body {
-  background-color: #ffeead;
-  margin: 10px;
-}
-
 .container > div:nth-child(1n) {
   background-color: #96ceb4;	
 }
