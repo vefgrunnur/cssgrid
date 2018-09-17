@@ -18,8 +18,11 @@ html, body {
       background-color: #ff6f69;
 }
 .container > div:nth-child(3n) {
-  background-color: #88d8b0;
+  background-color: #88bad8;
 }
 .container > div:nth-child(4n) {
       background-color: #ffcc5c;
+}
+.container > div:nth-child(5n) {
+      background-color: #ff69df;
 }
