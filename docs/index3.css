@@ -5,9 +5,10 @@
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 20% auto 10%;
     grid-template-areas: 
-        "h h h h h h h h h h h h"
+        "a a f f f f f f f f f f"    
+        "a a h h h h h h h h m m"
         "a a c c c c c c c c m m"
-        "f f f f f f f f f f f f";
+        ;
 }
 
 .header {
