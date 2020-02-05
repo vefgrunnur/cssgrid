@@ -1,20 +1,18 @@
 .container {
     height: 100%;
     display: grid;
-    grid-gap: 3px;
+    grid-gap: 1em;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 20% auto 10%;
+    grid-template-rows: 30% 40% 30%;
     grid-template-areas: 
         "a a f f f f f f f f f f"    
         "a a h h h h h h h h m m"
-        "a a c c c c c c c c m m"
+        "c c c c c c c c c c m m"
         ;
 }
-
 .header {
     grid-area: h;
 }
-
 .menu {
     grid-area: m;
 }
