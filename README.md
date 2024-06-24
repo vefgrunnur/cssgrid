@@ -4,10 +4,7 @@
 
 [bok.vefforritun.is/21.grid](https://bok.vefforritun.is/21.grid)
 
-Skipulag vefsíðu - webpage layout
-vefsíða: https://vefgrunnur.github.io/cssgrid/
-
-byggt á: https://scrimba.com/g/gR8PTE
+[Vefsíðugrind - webpage grid](https://vefgrunnur.github.io/cssgrid/) <br>(byggt á: [Scrimba.com](https://scrimba.com/g/gR8PTE)
 
 ### Bjargir
 
